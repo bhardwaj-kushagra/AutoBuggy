@@ -32,7 +32,7 @@ To get started with Auto_Buggy:
 ## Usage
 
 Once the Auto_Buggy is set up, it can be used as follows:
-- Adjust the values of `fwdLimit`, `bwdLimit`, and `HOLD` variables in the code to control the buggy's behavior at specific distances.
+- Adjust the values of `fwdLimit` and `bwdLimit` variables in the code to control the buggy's behavior at specific distances.
 - Observe how the buggy autonomously follows or moves away from objects based on the information received from the ultrasonic sensor.
 
 ## Issues
