@@ -54,7 +54,7 @@ Future enhancements for Auto_Buggy may include:
 
 ### Video
 
-[![Auto_Buggy Demo Video]
+![Auto_Buggy Demo Video]
 
 https://github.com/bhardwaj-kushagra/AutoBuggy/assets/114687412/3dccd6af-d443-4a70-9e45-7e59adcb0088
 
